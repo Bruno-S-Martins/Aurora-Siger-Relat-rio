@@ -35,7 +35,7 @@ pode ser executado no Google Colab, sem necessidade de instalação local.
 
 1 - Abra este repositório no GitHub
 <br>
-2 - Abra o arquivo 'Notbook.ipynb'
+2 - Abra o arquivo 'NotbookPython.ipynb'
 <br>
 3 - clique no icone 'Open in Colab' <img width="807" height="370" alt="image" src="https://github.com/user-attachments/assets/3481c147-a613-40f7-958d-fda8709469af" />
 <br>
