@@ -31,7 +31,6 @@ Código da decolagem **NÃO AUTORIZADA**
 ### Google Colab (recomendado)
 pode ser executado no Google Colab, sem necessidade de instalação local.
 
-[Colab](https://colab.research.google.com/github/BrunoSM-FIAP/Aurora-Siger-Relat-rio/blob/main/Notbook.ipynb)
 
 1 - Abra este repositório no GitHub
 <br>
